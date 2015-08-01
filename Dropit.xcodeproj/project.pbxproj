@@ -77,11 +77,8 @@
 		A92181901B6D18EF001528E2 /* Dropit */ = {
 			isa = PBXGroup;
 			children = (
-				A92181931B6D18EF001528E2 /* AppDelegate.swift */,
 				A92181951B6D18EF001528E2 /* ViewController.swift */,
 				A92181971B6D18EF001528E2 /* Main.storyboard */,
-				A921819A1B6D18EF001528E2 /* Images.xcassets */,
-				A921819C1B6D18EF001528E2 /* LaunchScreen.xib */,
 				A92181911B6D18EF001528E2 /* Supporting Files */,
 			);
 			path = Dropit;
@@ -90,6 +87,9 @@
 		A92181911B6D18EF001528E2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A921819A1B6D18EF001528E2 /* Images.xcassets */,
+				A921819C1B6D18EF001528E2 /* LaunchScreen.xib */,
+				A92181931B6D18EF001528E2 /* AppDelegate.swift */,
 				A92181921B6D18EF001528E2 /* Info.plist */,
 			);
 			name = "Supporting Files";
